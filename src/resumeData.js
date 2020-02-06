@@ -29,7 +29,7 @@ let resumeData = {
             "specialization": "B.A.(Ed) in English Education ",
             "MonthOfPassing": "July",
             "YearOfPassing": "2018",
-            "Achievements": "Second Class Lower"
+            "Achievements": " "
         }
 
     ],
