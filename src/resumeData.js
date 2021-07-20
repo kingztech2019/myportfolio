@@ -23,7 +23,7 @@ let resumeData = {
     ],
     "aboutme": "I am a graduate of Adekunle Ajasin University Akungba-Akoko, Ondo-State and also a co-founder of KingzTech Company. I am the president and pioneer of Light for Humanity Organisation, an Ngo that has reached out to over 3000 young people in Nigeria. I am a self taught Full Stack Web Developer, currently diving deeper into Motion Graphics. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address": "Nigeria",
-    "website": "+2347065039595",
+    "website": "+2348087509140",
     "education": [{
             "UniversityName": "Adekunle Ajasin University ",
             "specialization": "B.A.(Ed) in English Education ",
