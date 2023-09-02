@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl": " ",
-    "name": "Falore Oluwajuwon",
-    "role": "Frontend and Backend developer",
+    "name": "Oluwajuwon Falore",
+    "role": "Full Stack developer",
     "linkedinId": "+2348087509140",
     "skypeid": "+2348087509140 ",
     "roleDescription": "Experienced with all the development cycle for dynamic web projects. Well-versed in programming languages including HTML5, CSS, JAVASCRIPT, REACTJS, ANGULAR, MONGODB, IONIC ",
