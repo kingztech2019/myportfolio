@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl": " ",
     "name": "Oluwajuwon Falore",
-    "role": "Full Stack developer",
+    "role": "Full Stack software developer ",
     "linkedinId": "+2348087509140",
     "skypeid": "+2348087509140 ",
-    "roleDescription": "Experienced with all the development cycle for dynamic web projects. Well-versed in programming languages including HTML5, CSS, JAVASCRIPT, REACTJS, ANGULAR, MONGODB, IONIC ",
+    "roleDescription": "Experienced with all the development cycle for dynamic web projects. Well-versed in programming languages including HTML5, CSS, JAVASCRIPT, REACTJS, ANGULAR,PYTHON, GOLANG, IONIC ",
     "socialLinks": [{
             "name": "linkedin",
             "url": "https://www.linkedin.com/in/falore-oluwajuwon-steven-a104671a1/",
